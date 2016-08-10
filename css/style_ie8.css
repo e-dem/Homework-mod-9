@@ -1,0 +1,16 @@
+
+.slider_radio {
+  display: block;
+  float: left;
+  margin-right: 5px;
+
+}
+
+.slider__switch {
+  display: none;
+}
+
+.menu480-inside {
+  margin-top: -33px !important;
+    color: #fff;
+}

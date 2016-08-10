@@ -1,0 +1,179 @@
+.header {
+  display: block;
+  clear: both;
+}
+
+.logo_link_gradient  {
+  background: none;
+  color: #5a3f66;
+}
+
+.logo {
+  width: 170px;
+  float: left;
+}
+.nav {
+  width: 700px;
+  float: right;
+  margin-top: 0px;
+}
+
+.slider__bg {
+  background: url(../img/bg_pattern.png) repeat;
+}
+
+.slider__wrapper {
+  display: block;
+  margin: 0 auto;
+/*  position: relative;
+  overflow: hidden;*/
+  clear: both;
+  width: 1150px;
+}
+
+.slider__left {
+  float: left;
+  width: 41px;
+  padding-top: 180px;
+}
+
+.slider__block {
+  float: left;
+  width: 960px;
+  /*position: relative;
+  overflow: hidden;*/
+  margin: 0px 50px;
+}
+
+.slider_right {
+  float: right;
+  width: 41px;
+  padding-top: 180px;
+}
+
+.slider__img {
+  width: 274px;
+  float: right;
+}
+
+.slider__text {
+  margin-top: 0px;
+  float: left;
+  padding-top: 80px;
+}
+
+.slider_radio {
+  display: none;
+
+}
+
+.slider__radio-button {
+  width: 150px;
+  left: 40%;
+}
+.slider__switch {
+  display: block;
+    float: left;
+    background: url(../img/switch.png) no-repeat left;
+}
+
+  /*-----------------about---------------*/
+
+  .about {
+    height: 342px;
+    background: url(../img/about_bg.jpg) repeat-x;
+  }
+
+.about__wrapper {
+  position: relative;
+  overflow: hidden;
+  margin: 80px auto;
+}
+
+.about__box {
+  float: left;
+  margin-right: 40px;
+}
+
+
+.about__icon {
+  float: left;
+}
+
+.icon1 {
+ background: url(../img/sprites_icon.png) no-repeat;
+ background-size: 107px 32px;
+}
+
+.icon2 {
+ background: url(../img/sprites_icon.png) no-repeat;
+ background-position: -37px 0px;
+ background-size: 107px 32px;
+}
+
+.icon3 {
+ background: url(../img/sprites_icon.png) no-repeat;
+ background-position: -74px 0px;
+ background-size: 107px 32px;
+}
+
+.about__content {
+  width: 250px;
+  margin-left: 35px;
+}
+
+
+/*-----blog----*/
+.blog {
+  padding-top: 130px;
+}
+
+.blog__wrapper {
+  clear: both;
+  margin: 0px auto;
+}
+
+
+.blog__slider-box {
+  float: left;
+  width: 400px;
+}
+
+.blog__updates-box {
+  float: left;
+}
+
+.logos__bg {
+  display: block;
+  padding-top: 25px;
+}
+
+.logos {
+  margin: 0 auto;
+}
+
+.comments__wrapper {
+  clear: both;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.comments__box {
+  float: left;
+  margin-right: 30px;
+}
+
+.footer__nav {
+  clear: both;
+  margin: 0 auto;
+}
+
+.footer__menu {
+  float: left;
+  width: 570px;
+  height: 30px;
+}
+
+.designedby {
+  float: right;
+}

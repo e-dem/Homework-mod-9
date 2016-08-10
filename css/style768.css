@@ -1,0 +1,219 @@
+@media (max-width: 960px) {
+
+.header {
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 715px;
+}
+
+  .nav480px {
+    display: none;
+}
+
+.nav {
+    margin-top: 24px;
+}
+
+.menu {
+  margin-left: -7px;
+  padding-left: 0px;
+}
+
+.menu__item {
+  margin: 0px 17px;
+}
+
+.slider__container {
+    height: 555px;
+}
+
+.slider__bg {
+  margin-top: 70px;
+}
+
+.slider__block {
+  width: 745px;
+  margin-left: 15px;
+}
+
+.slider__text {
+  width: 335px;
+  margin-top: -40px;
+}
+
+.slider__tel {
+    margin-top: -22px;
+}
+
+.slider__h1 {
+  font-size: 48px;
+}
+
+.slider__h2 {
+  font-size: 24px;
+  width: 285px;
+  height: 25px;
+  overflow: hidden;
+  margin-top: 3px;
+  margin-bottom: 6px;
+}
+
+.slider__paragraph {
+  height: 95px;
+  overflow: hidden;
+  font-size: 16px;
+  width: 285px;
+  line-height: 24px;
+}
+
+.slider_right {
+  margin-left: -70px;
+}
+
+/*--------------about------------------*/
+
+.about__wrapper {
+  width: 720px;
+  margin-left: 25px;
+}
+
+.about__box {
+  width: 240px;
+}
+
+.about__content {
+  width: 200px;
+  margin-left: 29px;
+}
+
+.about__h3 {
+  font-size: 24px;
+}
+
+.about__paragraph {
+  overflow: hidden;
+  height: 140px;
+  margin-top: 0px;
+}
+
+.about__link {
+  margin-top: 13px;
+}
+
+/*-------------blog--------------*/
+
+.blog__wrapper {
+  width: 720px;
+}
+
+.blog__slider-box {
+    background: url(../img/lg_slider_bg768.png) no-repeat top right;
+    width: 342px;
+    padding-left: 0px;
+}
+
+.blog__slider {
+  margin-left: 67px;
+}
+
+.blog__h2 {
+  font-size: 24px;
+  width: 110px;
+  line-height: 24px;
+}
+
+.blog__paragraph {
+  width: 257px;
+  height: 147px;
+  overflow: hidden;
+}
+
+.blog__updates-box {
+  width: 335px;
+}
+
+.blog__list {
+  overflow: hidden;
+  height: 53px;
+}
+
+.blog__h2_right {
+  font-size: 30px;
+  width: 138px;
+  margin-left: 15px;
+  line-height: 33px;
+}
+
+.blog__h2_color {
+  margin-top: -5px;
+}
+
+.blog__updates {
+  margin-left: 15px;
+  width: 350px;
+  margin-top: 13px;
+}
+
+.link960 {
+  display: none;
+}
+
+.link768 {
+  display: block;
+  margin-right: -10px;
+}
+
+/*--------------logos--------------*/
+
+.logos {
+  width: 720px;
+  background-size: cover;
+}
+
+/*----------footer--------*/
+
+.comments {
+  height: 394px;
+}
+
+.comments__wrapper {
+  width: 720px;
+}
+
+.comments__box {
+  width: 205px;
+  height: 203px;
+  overflow: hidden;
+}
+
+.comments__paragraph {
+line-height: 23px;
+}
+
+.footer__nav {
+  height: 200px;
+  width: 720px;
+}
+
+.footer__menubox {
+  background: url(../img/footer-bg768.jpg) no-repeat;
+  background-position: top center;
+  height: 200px;
+}
+
+.footer__menu {
+  margin: 43px 0px 0px 6px;
+}
+
+.footer__item {
+  margin: 0px 19px;
+}
+
+.designedby {
+  margin-top: 100px;
+  margin-right: -11px;
+}
+
+
+
+}

@@ -1,0 +1,83 @@
+@media (max-width: 960px) {
+
+.header {
+  width: 720px;
+  position: relative;
+  overflow: hidden;
+}
+
+.nav {
+  float: left;
+  width: 670px;
+}
+
+.slider__h1 {
+  font-size: 48px;
+}
+
+
+.slider__wrapper {
+  width: 768px;
+  position: relative;
+  clear: both;
+}
+
+.slider__block {
+  width: 680px;
+}
+.slider__text {
+  width: 300px;
+  margin-top: 30px;
+}
+
+.slider__block {
+  margin: 0px;
+}
+
+.slider__img {
+  width: 280px;
+  margin: 0px;
+  padding-left: 0px;
+}
+.slider__tel {
+  margin-top: -17px;
+}
+
+.about__wrapper {
+  width: 720px;
+  height: 210px;
+}
+.about__box {
+  margin: 0px;
+  width: 240px;
+}
+
+.about__content {
+  width: 200px;
+  margin-left: 29px;
+}
+.about__paragraph {
+  height: 150px;
+}
+
+/*-------------blog----------------*/
+.blog__wrapper {
+  width: 720px;
+}
+
+.blog__slider-box {
+    background: url(../img/lg_slider_bg768.png) no-repeat top right;
+    width: 342px;
+    padding-left: 0px;
+}
+.blog__h2 {
+  width: 150px;
+}
+.logos {
+  background: none;
+  width: 720px;
+  background-size: cover;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/logos.png', sizingMethod='scale');
+-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/logos.png', sizingMethod='scale')";
+}
+}

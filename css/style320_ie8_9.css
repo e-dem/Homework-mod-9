@@ -1,0 +1,162 @@
+@media (max-width: 479px){
+
+/*.menu480__link, .header, .nav480px, .menu__item1, .menu480 {
+  color: #fff !important;
+}
+
+.menu480 .menu480__item-top:hover {
+  color: #fff !important;
+}
+*/
+
+.slider__wrapper {
+  width: 340px !important;
+  height: 100px !important;
+  padding: 0px;
+  margin: 0px auto;
+  position: relative;
+  overflow: hidden;
+}
+
+.slider__block {
+  width: 250px !important;
+  height: 90px !important;
+  margin: 0px auto !important;
+  padding-left: 30px;
+  position: relative;
+  overflow: hidden;
+  float: left;
+}
+.slider__img {
+  display: none;
+}
+.slider__text {
+  width: 240px;
+  height: 90px;
+  padding: 0px;
+}
+
+.slider__h1 {
+  font-size: 36px !important;
+}
+
+.slider__bg {
+  background: transparent;
+  height: 135px;
+  margin-top: 20px;
+}
+
+.slider__left  {
+  margin-top: 20px !important;
+  padding-top: 0px;
+  width: 30px;
+  float: left;
+}
+
+.slider_right {
+    margin-top: 20px !important;
+    padding: 0px !important;
+    width: 30px;
+    float: right;
+}
+
+.slider__radio-button {
+    left: 39%;
+}
+
+.about__wrapper {
+  width: 250px !important;
+}
+
+.about__box {
+ width: 240px !important;
+}
+
+.about__content {
+  width: 225px !important;
+}
+
+.about__link {
+  margin: 0px !important;
+}
+
+.blog__wrapper {
+  width: 285px;
+}
+
+.blog__slider-box {
+  background: url(../img/lg_slider_bg320.png) no-repeat top right;
+  width: 285px;
+  padding-top: 13px;
+}
+
+.blog__h2 {
+  font-size: 24px;
+  width: 90px;
+  margin-bottom: 2px;
+}
+
+.blog__h2_color {
+  width: 150px;
+  margin-left: 0px;
+}
+
+.blog__paragraph {
+  width: 211px;
+  height: 162px;
+}
+
+.blog__updates-box, .blog__updates {
+  width: 280px;
+  margin: 0px;
+}
+
+.blog__h2_right {
+  width: 148px;
+  font-size: 30px;
+  margin-left: 2px;
+}
+
+.blog__h3 {
+  height: 22px;
+  overflow: hidden;
+  margin-bottom: 4px;
+}
+
+.blog__updates-box {
+  margin-top: 24px;
+}
+
+.blog__updates {
+  margin-left: 5px;
+}
+
+.link768 {
+    margin-right: 0px;
+}
+
+.logos__bg {
+  height: 422px;
+  padding-top: 50px;
+  margin: 0px;
+}
+
+.logos {
+  width: 237px;
+  height: 294px;
+  margin: 0 auto;
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/logos320px.png', sizingMethod='scale');
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/logos320px.png', sizingMethod='scale')";
+}
+
+.footer__menubox {
+    margin: 0px;
+    position: relative;
+    overflow: hidden;
+}
+
+.designedby {
+  margin-top: 38px;
+}
+
+}
